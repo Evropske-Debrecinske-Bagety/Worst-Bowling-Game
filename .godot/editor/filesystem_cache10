@@ -1,0 +1,9 @@
+9cad1ddce9e5a63143ba340c9520626b
+::res://::1784060578
+bowlingicon.webp::CompressedTexture2D::297362746980559891::1783980734::1783980805::1::::<><><>0<>0<>ec7f57ed1c0429e7d1a6716ffbc83208<>res://.godot/imported/bowlingicon.webp-32cdfc3031eecb5187697e6a7d8deaf9.ctex::
+export_presets.cfg::TextFile::-1::1784060561::0::1::::<><><>0<>0<><>::
+gmcover.png::CompressedTexture2D::2202164651863186387::1783980355::1783980406::1::::<><><>0<>0<>c5d7fbccd8c175dc33332bb119ac2864<>res://.godot/imported/gmcover.png-e780f3ed6ade3e0275798249c48b7178.ctex::
+main.tscn::PackedScene::8336394082999405703::1784060566::0::1::::<><><>0<>0<><>::uid://bsknvhwny5hb0::::res://player.tscn<>uid://bb70imk3sg1fb::::res://scr/player.gd
+player.tscn::PackedScene::3671290871569316583::1784045318::0::1::::<><><>0<>0<><>::
+::res://scr/::1784054104
+player.gd::GDScript::2524202473656204899::1784054104::0::1::::<>CharacterBody3D<><>0<>0<><>::

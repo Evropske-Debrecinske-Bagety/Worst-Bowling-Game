@@ -1,0 +1,13 @@
+DirectionalLight3D
+Window
+Button
+Control
+MeshInstance3D
+CollisionShape3D
+RigidBody3D
+StaticBody3D
+Camera3D
+CharacterBody3D
+Area3D
+Camera2D
+Node3D
