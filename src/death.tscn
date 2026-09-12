@@ -1,0 +1,29 @@
+[gd_scene format=3 uid="uid://6mj5jkoq8psx"]
+
+[ext_resource type="Script" uid="uid://birv4fq2sf7r2" path="res://scr/quit.gd" id="1_531me"]
+[ext_resource type="Texture2D" uid="uid://bfmwg6rl4a0na" path="res://daethass/bageta_debrecinska-1024x1024.jpg" id="1_qemge"]
+[ext_resource type="Texture2D" uid="uid://dqmpyeqfuf1o7" path="res://daethass/sigma.png" id="2_lf77f"]
+
+[node name="Death" type="Control" unique_id=506605731]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 2.0
+offset_top = 2.0
+offset_right = 2.0
+offset_bottom = 2.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_531me")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=488825672]
+
+[node name="BagetaDebrecinska1024x1024" type="Sprite2D" parent="." unique_id=633958900]
+position = Vector2(10, -5)
+scale = Vector2(1.9726563, 1.0898438)
+texture = ExtResource("1_qemge")
+
+[node name="Sigma" type="Sprite2D" parent="." unique_id=1678902292]
+position = Vector2(-851, -456)
+texture = ExtResource("2_lf77f")
