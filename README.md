@@ -1,9 +1,14 @@
-## THIS REPOSITORY NO LONGER RECEIVES RELEASES
-### this repository is not receiving any releases from the project, it is moved [here](https://filik19.itch.io/worst-bowling-game). this repository is still going to be up for the wiki.
+# Is it really the "WORST" bowling game? ... well i think yes!
+Worst Bowling Game first started as a Unity Physics Test, but then i started uploading it to github. the game is pretty gud, but bad. 
 
-# The Worst Bowling Game
-The "WORST" Bowling Game is a bowling game (very unexpected) that sucks. 
-# How to play
-Simply, download a version, unzip and run "Worst Bowling Game.exe". Simple as deleting system32!
-# How to quit the game
-use alt+f4, i am planning to make esc quit the game but it is WIP
+## So is it actually the WORST one?
+Yes! The game sucks but doesnt, but does...
+
+## People working on this
+- filik19 - assets & the whole entire project
+- Leo The Debrecinka - ideas, assets
+- MrRozok - ideas, some assets
+- LUKASINO2288 - ideas, graphics (some)
+- Honza13 - i forgor
+
+Here on the github you can download builds or report an issue.
