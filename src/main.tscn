@@ -219,4 +219,6 @@ shape = SubResource("BoxShape3D_g4v7s")
 environment = SubResource("Environment_0kjk1")
 camera_attributes = SubResource("CameraAttributesPractical_7v02q")
 
+[node name="Node" type="Node" parent="." unique_id=2029877915]
+
 [connection signal="body_entered" from="deathBorder" to="ball" method="_on_death_border_body_entered"]
