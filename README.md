@@ -11,4 +11,4 @@ Yes! The game sucks but doesnt, but does...
 - LUKASINO2288 - ideas, graphics (some)
 - Honza13 - i forgor
 
-Here on the github you can download builds or report an issue.
+Here on the github you can download builds, report an issue or create a pull request.
