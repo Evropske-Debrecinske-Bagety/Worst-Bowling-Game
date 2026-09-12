@@ -1,3 +1,5 @@
+<img width="600" height="160" alt="Worst Bowling Game Banner" src="https://github.com/user-attachments/assets/d92206fa-3893-4396-b2ed-5c792f78e9de" />
+
 # Is it really the "WORST" bowling game? ... well i think yes!
 Worst Bowling Game first started as a Unity Physics Test, but then i started uploading it to github. the game is pretty gud, but bad. 
 
